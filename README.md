@@ -1,7 +1,15 @@
 <!--
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Dev-Jeromebaek&show_icons=true">
 -->
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Dev-Jeromebaek&include_all_commits=true">
+
 ### Hi there 👋
+
+🧑🏻‍💻 Senier Frontend Developer <br>
+📚 React.js, Javascript(ES6+), Typescript <br>
+🚀 Working on TANGO Inc.
+
+
 <!--
 🧑🏻‍💻 Senier Frontend Developer <br>
 📚 React.js, Javascript(ES6+), Typescript <br> 
@@ -10,6 +18,7 @@
 <br><br>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Jeromebaek&layout=compact">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=Dev-Jeromebaek&include_all_commits=true">
 -->
 <!-- 🚀 **Current** [SpaceONE Console](https://github.com/spaceone-dev/console) -->
 
