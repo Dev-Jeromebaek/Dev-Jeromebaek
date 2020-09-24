@@ -4,11 +4,10 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Dev-Jeromebaek&include_all_commits=true">
 
 ### Hi there 👋
-
+<br><br>
 🧑🏻‍💻 Senier Frontend Developer <br>
 📚 React.js, Javascript(ES6+), Typescript <br>
 🚀 Working on TANGO Inc.
-
 
 <!--
 🧑🏻‍💻 Senier Frontend Developer <br>
