@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 <br>
-🧑🏻‍ 💻 Senier Frontend Developer <br>
+💻  Front-End Developer <br>
 📚  React.js, Javascript(ES6+), Typescript <br>
 🚀  Working on TANGO Inc.
 
