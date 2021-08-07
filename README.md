@@ -11,7 +11,7 @@
 
 <!--
 🧑🏻‍💻 Senier Frontend Developer <br>
-📚 React.js, Javascript(ES6+), Typescript <br> 
+📚 React.js, Javascript(ES6+), Typescript, Python, Django <br> 
 🚀 Working on @TANGO Inc.
 
 <br><br>
