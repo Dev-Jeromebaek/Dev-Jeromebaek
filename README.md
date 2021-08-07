@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 <br>
-💻  Front-End Developer <br>
+💻  Sofrware Engineer <br>
 📚  React.js, Javascript(ES6+), Typescript <br>
 🚀  Working on TANGO Inc.
 
