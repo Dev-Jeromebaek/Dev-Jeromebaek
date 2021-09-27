@@ -6,8 +6,8 @@
 ### Hi there 👋
 <br>
 💻  Sofrware Engineer <br>
-🌐  Python, React.js, Javascript(ES6+), Typescript,<br>
-📚  Django, Docker, Nginx, Webpack,<br>
+🌐  React.js, Javascript(ES6+), Typescript,<br>
+📚  Python, Django, Docker, Nginx<br>
 🚀  Working on TANGO Inc.
 
 <!--
