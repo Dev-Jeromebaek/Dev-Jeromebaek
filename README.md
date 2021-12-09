@@ -8,12 +8,12 @@
 💻  Sofrware Engineer <br>
 🌐  React.js, Javascript(ES6+), Typescript,<br>
 📚  Python, Django, Docker, Nginx<br>
-🚀  Working on TANGO Inc.
+🚀  Working on Nabiee Inc.
 
 <!--
 🧑🏻‍💻 Senier Frontend Developer <br>
 📚 React.js, Javascript(ES6+), Typescript, Python, Django <br> 
-🚀 Working on @TANGO Inc.
+🚀 Working on @Nabiee Inc.
 
 <br><br>
 
