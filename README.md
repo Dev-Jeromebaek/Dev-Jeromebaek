@@ -14,7 +14,7 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Dev-Jeromebaek&include_all_commits=true">
 -->
-<p align="center"><a href="https://dev-jeromebaek.github.io/portfolio-en/"><img width="300px" height="250px" height="250px" src="./assets/introduce.png" /></a></p>
+<p align="center"><a href="https://dev-jeromebaek.github.io/portfolio-en/"><img width="250px" src="./assets/introduce.png" /></a></p>
 
 
 I'm a self-taught passionate Software Engineer from South Korea. 🇰🇷
