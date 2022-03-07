@@ -27,7 +27,7 @@ I'm a self-taught passionate Software Engineer from South Korea. 🇰🇷
 
 - 💬 Ask me about anything [here](https://github.com/Dev-Jeromebaek/Dev-Jeromebaek/issues)
 
-#### Language
+#### Use Language
 
 <code><img height="20" alt="javascript" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png"></code>
